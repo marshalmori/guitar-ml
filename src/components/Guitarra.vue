@@ -27,7 +27,7 @@ const props = defineProps({
       <p>{{ guitarra.descripcion }}</p>
       <p class="fw-black text-primary fs-3">${{ guitarra.precio }}</p>
       <button @click="" type="button" class="btn btn-dark w-100">
-        Agregar al Carrito
+        Adicionar ao carrinnho
       </button>
     </div>
   </div>
